@@ -1,4 +1,4 @@
-# Bank Customer Churn Risk & Behavior Analytics Dashboard
+# Bank Customer Churn Risk & Behaviour Analytics Dashboard
 
 ## Description  
 This Power BI dashboard delivers an interactive analysis of customer churn risk within a banking dataset. It visualizes customer behavior, and key churn drivers. The dashboard enables dynamic filtering and drill-downs, empowering stakeholders to identify at-risk customer segments and develop targeted retention strategies.
